@@ -1,0 +1,180 @@
+div.first {
+	height: 300px;
+}
+
+div.box-blog-title > a {
+	border-bottom: 1px solid #00c6bf;
+	color: #c5d0d5;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 10px 24px 12px 29px;
+}
+
+.first-paragraph {
+	text-align: center;
+	display: block;
+/*	padding-right: 300px;
+	padding-left: 300px;*/
+/*	margin-right: 300px;
+	margin-left: 300px;	*/
+	min-width: 560px;
+	border: 300px;
+}
+
+div.first p {
+	margin: 20px;
+}
+
+div.first img {
+	margin: 30px;
+}
+
+div.second {
+	height: 430px;
+}
+
+div h2 {
+	color: #333;
+}
+
+div h2 {
+	font-size: 30px;
+	font-family:Arial;
+}
+
+div.retina {
+	padding-top: 80px;
+}
+
+.laptop img {
+	padding-top: 70px;
+	width: 570px;
+	height: 390px;
+}
+
+div.third {
+	height: 710px;
+	background-color: #eff7fa;
+}
+
+.third h2 {
+	color: #ffc501;
+	margin-top: 115px;
+}
+
+div.img {
+	padding: 30px;
+	margin: 30px;
+}
+
+div.img a {	
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+div.fourth h2 {
+	color: #fff;
+	padding-top: 90px;
+	padding-bottom: 10px;
+}
+
+div.fourth {
+	background-color: #19283f;
+	height: 390px;
+}
+
+div.fourth a {
+	color: #ffc501;
+}
+
+.btn {
+	border-radius: 300px;
+	background-color: #ff3150;
+	text-align: center;
+	margin: 15px;
+	height: 45px;
+	width: 208px;
+	text-transform: uppercase;
+	display: block;
+}
+
+.btn a {
+	padding: 15px;
+	color: #ffc501;
+	text-align: center;
+	display: block;
+}
+
+.btn-2 {
+    height: 45px;
+	width: 208px;
+	background-color: #ff3150;
+	border-radius: 300px;
+	text-transform: uppercase;
+	display: block;
+	margin: 58px auto 0;
+}
+
+.btn-2 a {
+	padding: 15px;
+	color: #ffc501;
+	text-align: center;
+	display: block;
+}
+
+.box {
+	padding-top: 60px;
+	width: 270px;
+	height: 385px;
+	display: inline-block;
+	vertical-align: text-top;
+	position: static;
+	margin: 8px;
+	margin-bottom: 60px;
+}
+
+.box > img {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+.box .blue-btn a {
+	color: #fff;
+	background: #33d1cc;
+	display: inline-block;
+	margin: 0 auto;
+	padding: 15px;
+	width: 100%;
+}
+
+.description {
+	background-color: #fff;
+	min-height: 120px;
+	min-width: 270px;
+	text-align: center;
+	/*margin: 0 auto;*/
+	/*text-overflow: hidden;*/
+
+	padding-top: 30px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+@media only screen and ( max-width: 768px ) {
+	div.third {
+		height: 1200px;
+	}
+}
+
+@media only screen and ( max-width: 992px ) {
+	div.third {
+		height: 1200px;
+	}
+}
+
+@media only screen and ( max-width: 1200px ) {
+	div.third {
+		height: 1200px;
+	}
+}

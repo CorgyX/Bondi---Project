@@ -1,0 +1,314 @@
+@media only screen and (max-width: 1200px) {
+	
+	.box-blog {
+		margin: 0 auto;
+		text-align: center;
+	}
+
+	div.wrap_read-our-blog {
+		height: auto;
+	}
+
+	#newsletter {
+		margin-top: 20px;
+		height: auto;
+	}
+
+	#newsletter div.container-fluid {
+		display: table;
+		margin: 0 auto;
+	}
+
+	#newsletter div.title {
+		display: table;
+		margin: 0 auto;
+		width: 100%;
+		text-align: center;
+	}
+
+	#newsletter div.title p {
+		padding-left: 0;
+	}
+
+    #newsletter div.form {
+		display: table;
+		margin: 0 auto;
+		float: none;
+	}
+	
+	#footer {
+		height: auto;
+	}
+
+	#footer > div.container-fluid {
+		margin: 0 auto;
+		display: table;
+	}
+
+	div._first {
+		display: table;
+		margin: 0 auto;
+		text-align: center;
+	}
+
+	div._second {
+		width: auto;
+		text-align: center;
+		display: table;
+		margin: 0;
+	}
+
+	div._third {
+		display: table;
+		text-align: center;
+		margin: 0 auto;	
+	}
+
+	div._third p {
+		padding: 0;
+	}
+
+	div._second .box_links {		
+		position: relative;
+		margin: 0;
+	}
+
+	div._second .box_about-us {
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 992px) {
+
+	.login-layout {
+		float: none;
+		display: none;
+	}
+
+	.main-layout {
+		display: block;
+		text-align: center;
+	}
+
+
+	div.top-layout > div > div > div {
+		display: block;
+		text-align: center;
+	}
+
+	.wrap-heading{
+		margin-top: 75px;
+	}
+
+	.logo {
+		float: left;
+		margin: 10px 10px;
+	}
+
+	.box-blog {
+		margin: 0 auto;
+		text-align: center;
+	}
+
+	div.wrap_read-our-blog {
+		height: auto;
+	}
+
+	#newsletter {
+		margin-top: 20px;
+		height: auto;
+	}
+
+	#newsletter div.container-fluid {
+		display: table;
+		margin: 0 auto;
+	}
+
+	#newsletter div.title {
+		display: table;
+		margin: 0 auto;
+		width: 100%;
+		text-align: center;
+	}
+
+	#newsletter div.title p {
+		padding-left: 0;
+	}
+
+    #newsletter div.form {
+		display: table;
+		margin: 0 auto;
+		float: none;
+	}
+	
+	#footer {
+		height: auto;
+	}
+
+	#footer > div.container-fluid {
+		margin: 0 auto;
+		display: table;
+	}
+
+	div._first {
+		display: table;
+		margin: 0 auto;
+		float: none;
+	}
+
+	div._second {
+		width: auto;
+		text-align: center;
+		margin: 0 auto;
+		float: none;
+	}
+
+	div._third {
+		display: table;
+		text-align: center;
+		margin: 0 auto;
+		float: none;			
+	}
+
+	div._third p {
+		padding: 0;
+	}
+	
+	div._second .box_links {		
+		position: relative;
+	}
+
+	div._second .box_about-us {
+		display: none;
+	}
+} 
+
+@media only screen and (max-width: 768px) {
+
+	.login-layout {
+		float: none;
+		display: none;
+	}
+
+
+
+
+	div.top-layout > div > div > div {
+		display: block;
+		text-align: center;
+	}
+
+	.wrap-heading{
+		margin-top: 75px;
+	}
+
+	.logo {
+		float: left;
+		margin: 10px 10px;
+	}
+
+	header .top-layout {
+		position: fixed;
+		top: 0px;
+		right: 0px;
+		width: 100%;
+}
+
+	.main-layout {
+		display: block;
+		text-align: center;
+	}
+
+	.box-blog {
+		margin: 0 auto;
+		text-align: center;
+	}
+
+	div.wrap_read-our-blog {
+		height: auto;
+	}
+
+	#newsletter {
+		margin-top: 20px;
+		height: auto;
+	}
+
+	#newsletter div.container-fluid {
+		display: table;
+		margin: 0 auto;
+	}
+
+	#newsletter div.title {
+		display: table;
+		margin: 0 auto;
+		width: 100%;
+		text-align: center;
+	}
+
+	#newsletter div.title p {
+		padding-left: 0;
+	}
+
+    #newsletter div.form {
+		display: table;
+		margin: 0 auto;
+		float: none;
+	}
+	
+	#footer {
+		height: auto;
+	}
+
+	#footer > div.container-fluid {
+		margin: 0 auto;
+		display: table;
+	}
+
+	div._first {
+		height: auto;
+		display: table;
+		margin: 0 auto;
+		text-align: center;
+	}
+
+	div._first p.credentials{
+		margin-top: 20px;
+	}
+
+	div._second {
+		display: none;
+	}
+
+	div._third {
+		margin: 0 auto 20px auto;
+		display: table;		
+	}
+
+	div._third p {
+		padding: 0;
+	}
+
+	div._third a.mailto{
+		display: table;
+		margin: 20px auto;
+		width: 371px;
+	}
+
+	input.email  {
+		width: auto;
+	}
+
+	input.submit {
+	    display: table;
+	    margin: 20px auto;
+	}
+
+	div._second .box_about-us {
+		display: none;
+	}
+} 
+
+@media only screen and (min-width: 992px) {
+.canvas-btn {
+	display: none;
+}
