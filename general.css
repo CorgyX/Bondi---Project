@@ -1,0 +1,57 @@
+/* General  */
+
+body {
+	font-family: 'Roboto';
+}
+
+.container-fluid {
+	max-width: 1171px;
+	/*margin: 0 auto;*/
+}
+
+.clf:after {
+	content: '';
+	clear: both;
+	display: block;
+}
+
+/* Colors */
+
+.tx-c_be-d {
+	color: #19283f;
+}
+
+.tx-c_be-l {
+	color: #00c7c0;
+}
+
+.tx-c_gy-l {
+	color: #f0f8fb;
+}
+
+.tx-c_gy-d {
+	color: #9aaab2;
+}
+
+.tx-c_yl-d {
+	color: #ffc501;
+}
+
+
+/* Backgrounds */
+
+.bg-c_be-d {
+	background-color:#19283f;
+}
+
+.bg-c_be-l {
+	background-color: #00c7c0;
+}
+
+.bg-c_wt-d {
+	background-color:#fff;
+}
+
+.bg-c_red-d {
+	background-color: #ff3150;
+}
